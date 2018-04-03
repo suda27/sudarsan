@@ -42,6 +42,8 @@
 				class="w3-bar-item w3-button w3-hide-small w3-hover-white">Price</a>
 			<a href="#contact"
 				class="w3-bar-item w3-button w3-hide-small w3-hover-white">Contact</a>
+			<a href="index.jsp"
+				class="w3-bar-item w3-button w3-hide-small w3-hover-white w3-right">LogOut</a>
 		</div>
 
 		<!-- Navbar on small screens -->
@@ -54,7 +56,8 @@
 				href="#" class="w3-bar-item w3-button">Search</a>
 		</div>
 	</div>
-	<br><br>
-<h1>Hello ${userName}</h1>
+	<br>
+	<br>
+	<h1>Hello ${userName}</h1>
 </body>
 </html>
